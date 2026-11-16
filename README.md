@@ -7,8 +7,6 @@ A Lab Ubiquitous Systems course project exploring how to reproduce and generate 
 
 The aim is to make wearable activity experiments more repeatable and to explore how physical motion and synthetic sensor data can be used to test activity-tracking systems.
 
-> **Project status:** This repository is in development. Hardware requirements, supported data formats, software dependencies, setup instructions, and implemented features will be documented here as they are established. The outline below describes the project goals, not a claim that every feature is already available.
-
 ## Project goals
 
 ### Recorded motion replay
@@ -38,15 +36,7 @@ This repository is being developed. As the implementation grows, this section wi
 
 ## Getting started
 
-Setup and usage instructions will be added once the project's software stack, supported input format, and hardware configuration are finalized. Before running any actuator-generated G-code, review the safety guidance below and verify that the motion is suitable for your specific machine.
-
-## Hardware safety
-
-A 3D printer is a moving machine, and generated G-code can cause unexpected motion if it does not match the hardware configuration. Use this project only with a safely mounted test setup, keep clear of moving parts, and supervise every run. Start with low speeds and small movements, check travel limits and emergency-stop access, and inspect G-code before sending it to a printer. Do not attach a person or wearable to an actuator mechanism unless the setup has been specifically designed and assessed for safe use.
-
-## Data and privacy
-
-Smartwatch data can reveal sensitive information about a person's movement and routines. Use data you have permission to collect and process, remove identifying information where possible, and avoid publishing personal recordings without informed consent.
+Setup and usage instructions will be added once the project's software stack, supported input format, and hardware configuration are finalized.
 
 ## Development roadmap
 
