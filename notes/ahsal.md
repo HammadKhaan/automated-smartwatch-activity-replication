@@ -12,10 +12,8 @@
 
 | device   | UltraMaker 2+    |
 |--------------- | --------------- |
-| Gcode flavour   | _   |
-| Item1.2   | Item2.2   |
-| Item1.3   | Item2.3   |
-| Item1.4   | Item2.4   |
+| Gcode flavour   | RepRap/Marlin-derived G-code <not sure>   |
+| _    |    |
 
 
 
@@ -47,6 +45,6 @@ There are several types of Gcodes.In UltraMaker  2+ found something interesting 
 
 
 ## Ideas for translation from Acc to Gcode hopefully
-- [] naive methods to try
+- [] naive methods to try acc -> vel -> position , use feed rate as t
 
 

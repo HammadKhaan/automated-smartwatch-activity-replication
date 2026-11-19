@@ -1,6 +1,6 @@
 
 
-[source Gcode reference](https://community.ultimaker.com/topic/39260-ultimaker-2-connect-support-gcode-commands/)
+[Gcode reference source](https://community.ultimaker.com/topic/39260-ultimaker-2-connect-support-gcode-commands/)
 
 ```Gcode
 
